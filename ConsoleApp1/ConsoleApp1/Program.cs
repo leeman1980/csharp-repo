@@ -9,6 +9,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("fghdhhdgfhgdhf");
             Console.WriteLine(@"Hello   
 my dear friend.
 ..");
